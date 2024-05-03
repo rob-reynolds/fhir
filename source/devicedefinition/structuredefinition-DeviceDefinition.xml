@@ -322,7 +322,7 @@
       <min value="1"/>
       <max value="1"/>
       <type>
-        <code value="code"/>
+        <code value="CodeableConcept"/>
       </type>
       <isSummary value="true"/>
       <binding>
