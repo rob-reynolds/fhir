@@ -628,7 +628,7 @@
     </element>    
     <element id="ServiceRequest.orderDetail.parameter.code">
       <path value="ServiceRequest.orderDetail.parameter.code"/>
-      <short value="The detail of the order being requested"/>
+      <short value="The detail of the service being requested"/>
       <definition value="A value representing the additional detail or instructions for the order (e.g., catheter insertion, body elevation, descriptive device configuration and/or setting instructions)."/>
       <min value="1"/>
       <max value="1"/>
